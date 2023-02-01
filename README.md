@@ -4,7 +4,8 @@
 
 I'm Seogun, Front-end developer from Korea. I use React often.
 
-<img src="https://user-images.githubusercontent.com/76584961/216110120-455ad241-f867-4dc1-88d4-cedbad996984.png"/>
+
+<p><a href="https://github.com/Seogun95"rel="noopener noreferrer" style="cursor: pointer;"><img alt="Github" src="https://user-images.githubusercontent.com/76584961/216110120-455ad241-f867-4dc1-88d4-cedbad996984.png" style="height: 40px"></a></p>
 
 <h2>My Tech STACK <img src="https://user-images.githubusercontent.com/76584961/216113723-6fd9cdc1-5b9b-44f2-9731-da2be8dc7348.gif" style="height: 30px"/></h2>
 
@@ -40,7 +41,7 @@ const seogun = {
 
 <h2>Where to find me?</h2>
 
-<p align="center">Follow me on Instagram! <img alt="instagram" src="https://user-images.githubusercontent.com/76584961/216097483-1682634a-25ea-45ba-a112-9993858197d5.png" style="width: 30px"> <a href="https://www.instagram.com/suun_dal_95/" target="_blank" rel="noopener noreferrer">@suun_dal_95</a>
+<p align="center">Follow me on Instagram! <img alt="instagram" src="https://user-images.githubusercontent.com/76584961/216097483-1682634a-25ea-45ba-a112-9993858197d5.png"> <a href="https://www.instagram.com/suun_dal_95/" target="_blank" rel="noopener noreferrer">@suun_dal_95</a>
   </p>
 <p align="center">이 <i>README</i> 파일의 마지막 업데이트 날짜: <br><code>2023년 02월 02일(목) 오전 01시 19분</code></p>
   <p align="center"><img src="https://user-images.githubusercontent.com/76584961/216103441-02b488d1-cf51-4c47-afae-ddc6fbec868e.gif" style="height: 40px"/><a href="https://github.com/Seogun95"rel="noopener noreferrer" style="cursor: pointer;"><img alt="Github" src="https://user-images.githubusercontent.com/76584961/216096069-63e58cc0-f2a8-4141-9bc4-9134ddf9c5e6.png" style="height: 40px"></a> 
