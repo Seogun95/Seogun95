@@ -4,8 +4,7 @@
 
 I'm Seogun, Front-end developer from Korea. I use React often.
 
-<div><a href="https://github.com/Seogun95" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @Seogun95 on GitHub"><img src="https://user-images.githubusercontent.com/76584961/216110120-455ad241-f867-4dc1-88d4-cedbad996984.png"/></a>
-
+<img src="https://user-images.githubusercontent.com/76584961/216110120-455ad241-f867-4dc1-88d4-cedbad996984.png"/>
 
 ### My Tech STACK 
 
@@ -40,8 +39,8 @@ const seogun = {
 <p align="center">Follow me on Instagram! <img alt="instagram" src="https://user-images.githubusercontent.com/76584961/216097483-1682634a-25ea-45ba-a112-9993858197d5.png" style="width: 30px"> <a href="https://www.instagram.com/suun_dal_95/" target="_blank" rel="noopener noreferrer">@suun_dal_95</a>
   </p>
 <p align="center">이 <i>README</i> 파일의 마지막 업데이트 날짜: <br><code>2023년 02월 02일(목) 오전 01시 19분</code></p>
-  <p align="center"><img src="https://user-images.githubusercontent.com/76584961/216103441-02b488d1-cf51-4c47-afae-ddc6fbec868e.gif" style="height: 40px"/><a href="https://github.com/Seogun95"rel="noopener noreferrer"><img alt="Github" src="https://user-images.githubusercontent.com/76584961/216096069-63e58cc0-f2a8-4141-9bc4-9134ddf9c5e6.png" style="height: 40px"></a> 
-<a href="https://seons-dev.tisroy" target="_blank" rel="noopener noreferrer"><img alt="tistory" src="https://user-images.githubusercontent.com/76584961/216096073-165ee694-de92-4162-aee6-bed3c46167ff.png" style="height: 40px"></a> 
+  <p align="center"><img src="https://user-images.githubusercontent.com/76584961/216103441-02b488d1-cf51-4c47-afae-ddc6fbec868e.gif" style="height: 40px"/><a href="https://github.com/Seogun95"rel="noopener noreferrer" style="cursor: pointer;"><img alt="Github" src="https://user-images.githubusercontent.com/76584961/216096069-63e58cc0-f2a8-4141-9bc4-9134ddf9c5e6.png" style="height: 40px"></a> 
+<a href="https://seons-dev.tisroy](https://seons-dev.tistory.com/" target="_blank" rel="noopener noreferrer" style="cursor: pointer;"><img alt="tistory" src="https://user-images.githubusercontent.com/76584961/216096073-165ee694-de92-4162-aee6-bed3c46167ff.png" style="height: 40px"></a> 
 </p>
  
 
