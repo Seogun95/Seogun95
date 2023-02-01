@@ -6,7 +6,8 @@ I'm Seogun, Front-end developer from Korea. I use React often.
 
 <img src="https://user-images.githubusercontent.com/76584961/216110120-455ad241-f867-4dc1-88d4-cedbad996984.png"/>
 
-### My Tech STACK 
+<h2>My Tech STACK <img src="https://user-images.githubusercontent.com/76584961/216113723-6fd9cdc1-5b9b-44f2-9731-da2be8dc7348.gif" style="height: 30px"/></h2>
+
 
 <p>
     <img style="width: 50px" src="https://user-images.githubusercontent.com/76584961/216093017-3e1770bb-a305-492b-b0f7-c12e7935fae4.png" alt="css">
@@ -20,7 +21,7 @@ I'm Seogun, Front-end developer from Korea. I use React often.
 
 ---
 
-###  A little more about me using code
+<h2>A little more about me using code</h2>
 
 ```javascript
 const seogun = {
@@ -34,7 +35,7 @@ const seogun = {
 
 ------
 
-### Where to find me?
+<h2>Where to find me?</h2>
 
 <p align="center">Follow me on Instagram! <img alt="instagram" src="https://user-images.githubusercontent.com/76584961/216097483-1682634a-25ea-45ba-a112-9993858197d5.png" style="width: 30px"> <a href="https://www.instagram.com/suun_dal_95/" target="_blank" rel="noopener noreferrer">@suun_dal_95</a>
   </p>
