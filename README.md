@@ -40,7 +40,7 @@ const seogun = {
   </p>
 <p align="center">이 <i>README</i> 파일의 마지막 업데이트 날짜: <br><code>2023년 02월 02일(목) 오전 01시 19분</code></p>
   <p align="center"><img src="https://user-images.githubusercontent.com/76584961/216103441-02b488d1-cf51-4c47-afae-ddc6fbec868e.gif" style="height: 40px"/><a href="https://github.com/Seogun95"rel="noopener noreferrer" style="cursor: pointer;"><img alt="Github" src="https://user-images.githubusercontent.com/76584961/216096069-63e58cc0-f2a8-4141-9bc4-9134ddf9c5e6.png" style="height: 40px"></a> 
-<a href="https://seons-dev.tisroy](https://seons-dev.tistory.com/" target="_blank" rel="noopener noreferrer" style="cursor: pointer;"><img alt="tistory" src="https://user-images.githubusercontent.com/76584961/216096073-165ee694-de92-4162-aee6-bed3c46167ff.png" style="height: 40px"></a> 
+<a href="https://seons-dev.tistory.com/" target="_blank" rel="noopener noreferrer" style="cursor: pointer;"><img alt="tistory" src="https://user-images.githubusercontent.com/76584961/216096073-165ee694-de92-4162-aee6-bed3c46167ff.png" style="height: 40px"></a> 
 </p>
  
 
