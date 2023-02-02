@@ -29,8 +29,9 @@
 <p>   <img style="width: 40px;" alt="vscode" src="https://user-images.githubusercontent.com/76584961/216272325-ac8b1a90-41ae-42f9-84f9-b9ad9a485a6f.png">
 <img style="width: 40px;" alt="xcode" src="https://user-images.githubusercontent.com/76584961/216272330-0370238a-e7a8-48df-8d39-28c5cd5c9612.png">
 <img style="width: 40px;" alt="iterm2" src="https://user-images.githubusercontent.com/76584961/216276408-bfcaaff4-a516-4b63-9948-1508885f00a0.png">
-<img style="width: 40px;" alt="iterm2" src="https://user-images.githubusercontent.com/76584961/216277590-ac90afd4-ed05-483f-862a-357c840eae79.png">
-<img style="width: 40px;" alt="iterm2" src="https://user-images.githubusercontent.com/76584961/216277688-233c8c2c-2762-4a6a-b7e4-d2ba697841b3.png">
+<img style="width: 40px;" alt="terminal" src="https://user-images.githubusercontent.com/76584961/216279126-7cfa9d77-554a-4753-a600-5e6166074248.png">
+<img style="width: 40px;" alt="typora" src="https://user-images.githubusercontent.com/76584961/216277590-ac90afd4-ed05-483f-862a-357c840eae79.png">
+<img style="width: 40px;" alt="opcidian" src="https://user-images.githubusercontent.com/76584961/216277688-233c8c2c-2762-4a6a-b7e4-d2ba697841b3.png">
 </p>
 
 ---
@@ -53,7 +54,7 @@ const seogun = {
 
 <p align="center">Follow me on Instagram! <img alt="instagram" src="https://user-images.githubusercontent.com/76584961/216097483-1682634a-25ea-45ba-a112-9993858197d5.png" style="width: 20px"> <a href="https://www.instagram.com/suun_dal_95/" target="_blank" rel="noopener noreferrer">@suun_dal_95</a>
   </p>
-<p align="center">이 <i>README</i> 파일의 마지막 업데이트 날짜: <br><code>2023년 02월 02일(목) 오전 01시 19분</code></p>
+<p align="center">이 <i>README</i> 파일의 마지막 업데이트 날짜: <br><code>2023년 02월 02일(목) 오후 06시 03분</code></p>
   <p align="center"><img src="https://user-images.githubusercontent.com/76584961/216103441-02b488d1-cf51-4c47-afae-ddc6fbec868e.gif" style="height: 40px"/><a href="https://github.com/Seogun95"rel="noopener noreferrer" style="cursor: pointer;"><img alt="Github" src="https://user-images.githubusercontent.com/76584961/216096069-63e58cc0-f2a8-4141-9bc4-9134ddf9c5e6.png" style="height: 40px"></a> 
 <a href="https://seons-dev.tistory.com/" target="_blank" rel="noopener noreferrer" style="cursor: pointer;"><img alt="tistory" src="https://user-images.githubusercontent.com/76584961/216096073-165ee694-de92-4162-aee6-bed3c46167ff.png" style="height: 40px"></a> 
 </p>
