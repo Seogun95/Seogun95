@@ -2,13 +2,11 @@
 
 <h1><img src="https://user-images.githubusercontent.com/76584961/216099537-e1b5f736-96a4-4dee-94f3-5f040a105cfa.gif" style="height: 30px"/> Hello, There!</h1>
 
-<img align="right" src="https://user-images.githubusercontent.com/76584961/216337159-c55b6ebe-adc3-4a16-87ef-7c7b16185aa0.gif" style="max-width: 100%; width: 250px; display: inline-block;"/>
+<img align="right" src="https://user-images.githubusercontent.com/76584961/216432124-bd562e56-0bc3-495d-8585-b60ad15e5033.gif" style="max-width: 100%; width: 250px; display: inline-block;"/>
 
 <p>I'm Seogun, Front-end developer from Korea. I use React often.</p>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeogun95&count_bg=%23C8A03D&title_bg=%23555555&icon=git.svg&icon_color=%23FFFFFF&title=Seogun95&edge_flat=false"/></a>
-
-
 
 <h2>My Tech STACK <img src="https://user-images.githubusercontent.com/76584961/216113723-6fd9cdc1-5b9b-44f2-9731-da2be8dc7348.gif" style="height: 30px"/></h2>
 
