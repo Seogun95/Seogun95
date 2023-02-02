@@ -2,9 +2,7 @@
 
 <h1><img src="https://user-images.githubusercontent.com/76584961/216099537-e1b5f736-96a4-4dee-94f3-5f040a105cfa.gif" style="height: 30px"/> Hello, There!</h1>
 
-I'm Seogun, Front-end developer from Korea. I use React often.
-
-<p><a href="https://github.com/Seogun95"rel="noopener noreferrer" style="cursor: pointer;"><img alt="Github" src="https://user-images.githubusercontent.com/76584961/216138220-cad32a81-9540-4b3d-8302-407f32d7ed7f.png" style="width: 170px"></a></p>
+<p>I'm Seogun, Front-end developer from Korea. I use React often.</p>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeogun95&count_bg=%23C8A03D&title_bg=%23555555&icon=git.svg&icon_color=%23FFFFFF&title=Seogun95&edge_flat=false"/></a>
 
@@ -22,6 +20,9 @@ I'm Seogun, Front-end developer from Korea. I use React often.
   
  <!--  <img style="width: 50px" src="https://user-images.githubusercontent.com/76584961/216093353-d6b5485d-8e51-4f85-a090-552d8cb122ca.png" alt="typescript"> -->
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seogun95&show_icons=true&theme=gruvbox) 
+
 
 
 ---
