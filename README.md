@@ -14,16 +14,24 @@
    <img style="width: 30px;" src="https://user-images.githubusercontent.com/76584961/216093332-2373f3f9-7e67-4787-b1c1-a38a0af42856.png" alt="js">
    <img style="width: 30px;" src="https://user-images.githubusercontent.com/76584961/216117810-7c78b892-cb2b-4050-8911-f51ae15cb85e.png" alt="swift">
    <img style="width: 30px;" src="https://user-images.githubusercontent.com/76584961/216117822-e83f9b0c-3e41-44ac-9da9-05ecf3494c99.png" alt="swiftui">
-   
+  
 <!-- <img style="width: 50px;" src="https://user-images.githubusercontent.com/76584961/216094038-441f7d64-1d02-4301-917c-6999c9f9723e.png" alt="bootstrap"> -->   
  <!--  <img style="width: 50px" src="https://user-images.githubusercontent.com/76584961/216093349-da61389b-0b5c-42f4-b110-73300a4b868d.png" alt="react"> -->
   
  <!--  <img style="width: 50px" src="https://user-images.githubusercontent.com/76584961/216093353-d6b5485d-8e51-4f85-a090-552d8cb122ca.png" alt="typescript"> -->
+
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<h2>🛠️ Tools 🛠️</h2>
+<p>   <img style="width: 40px;" alt="vscode" src="https://user-images.githubusercontent.com/76584961/216272325-ac8b1a90-41ae-42f9-84f9-b9ad9a485a6f.png">
+<img style="width: 40px;" alt="xcode" src="https://user-images.githubusercontent.com/76584961/216272330-0370238a-e7a8-48df-8d39-28c5cd5c9612.png">
+<img style="width: 40px;" alt="iterm2" src="https://user-images.githubusercontent.com/76584961/216276408-bfcaaff4-a516-4b63-9948-1508885f00a0.png">
+<img style="width: 40px;" alt="iterm2" src="https://user-images.githubusercontent.com/76584961/216277590-ac90afd4-ed05-483f-862a-357c840eae79.png">
+<img style="width: 40px;" alt="iterm2" src="https://user-images.githubusercontent.com/76584961/216277688-233c8c2c-2762-4a6a-b7e4-d2ba697841b3.png">
+</p>
 
 ---
 
