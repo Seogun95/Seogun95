@@ -4,7 +4,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/76584961/216432124-bd562e56-0bc3-495d-8585-b60ad15e5033.gif" style="max-width: 100%; width: 250px; display: inline-block;"/>
 
-<p>I'm Seogun, Front-end developer from Korea. I use React often.</p>
+<p>I'm Seogun, <code>Front-end</code> developer from Korea. I use React often.</p>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeogun95&count_bg=%23C8A03D&title_bg=%23555555&icon=git.svg&icon_color=%23FFFFFF&title=Seogun95&edge_flat=false"/></a>
 
@@ -13,7 +13,7 @@
 <p>
    <img style="width: 30px;" src="https://user-images.githubusercontent.com/76584961/216093017-3e1770bb-a305-492b-b0f7-c12e7935fae4.png" alt="css">
    <img style="width: 30px;" src="https://user-images.githubusercontent.com/76584961/216093342-7b2cdcf6-9150-4b30-aedd-d5f79b1f44c8.png" alt="html">
-   <img style="width: 30px;" src="https://user-images.githubusercontent.com/76584961/216093332-2373f3f9-7e67-4787-b1c1-a38a0af42856.png" alt="js">
+   <img style="width: 30px;" src="https://user-images.githubusercontent.com/76584961/216442416-85fcfa93-7512-4b9e-9ff4-1f3b4a9a6567.gif" alt="js">
    <img style="width: 30px;" src="https://user-images.githubusercontent.com/76584961/216117810-7c78b892-cb2b-4050-8911-f51ae15cb85e.png" alt="swift">
    <img style="width: 30px;" src="https://user-images.githubusercontent.com/76584961/216117822-e83f9b0c-3e41-44ac-9da9-05ecf3494c99.png" alt="swiftui">
   
@@ -24,7 +24,7 @@
 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seogun95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h2>🛠️ Tools 🛠️</h2>
@@ -56,7 +56,7 @@ const seogun = {
 
 <p align="center">Follow me on Instagram! <img alt="instagram" src="https://user-images.githubusercontent.com/76584961/216097483-1682634a-25ea-45ba-a112-9993858197d5.png" style="width: 20px"> <a href="https://www.instagram.com/suun_dal_95/" target="_blank" rel="noopener noreferrer">@suun_dal_95</a>
   </p>
-<p align="center">이 <i>README</i> 파일의 마지막 업데이트 날짜: <br><code>2023년 02월 02일(목) 22시 04분</code></p>
+<p align="center">이 <i>README</i> 파일의 마지막 업데이트 날짜: <br><code>2023년 02월 03일(금) 05시 22분</code></p>
   <p align="center"><img src="https://user-images.githubusercontent.com/76584961/216103441-02b488d1-cf51-4c47-afae-ddc6fbec868e.gif" style="height: 40px"/><a href="https://github.com/Seogun95"rel="noopener noreferrer" style="cursor: pointer;"><img alt="Github" src="https://user-images.githubusercontent.com/76584961/216338764-0852c2aa-60ff-47e5-ab06-653a4101f8c6.png" style="height: 40px"></a> 
 <a href="https://seons-dev.tistory.com/" target="_blank" rel="noopener noreferrer" style="cursor: pointer;"><img alt="tistory" src="https://user-images.githubusercontent.com/76584961/216338770-66ee5516-a55d-4526-a5b0-386995b215ea.png" style="height: 40px"></a> 
 </p>
