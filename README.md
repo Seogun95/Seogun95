@@ -6,6 +6,8 @@ I'm Seogun, Front-end developer from Korea. I use React often.
 
 <p><a href="https://github.com/Seogun95"rel="noopener noreferrer" style="cursor: pointer;"><img alt="Github" src="https://user-images.githubusercontent.com/76584961/216138220-cad32a81-9540-4b3d-8302-407f32d7ed7f.png" style="width: 170px"></a></p>
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeogun95&count_bg=%23C8A03D&title_bg=%23555555&icon=git.svg&icon_color=%23FFFFFF&title=Seogun95&edge_flat=false"/></a>
+
 <h2>My Tech STACK <img src="https://user-images.githubusercontent.com/76584961/216113723-6fd9cdc1-5b9b-44f2-9731-da2be8dc7348.gif" style="height: 30px"/></h2>
 
 <p>
