@@ -5,7 +5,9 @@
 <img align="right" src="https://user-images.githubusercontent.com/76584961/216432124-bd562e56-0bc3-495d-8585-b60ad15e5033.gif" style="max-width: 100%; width: 250px; display: inline-block;"/>
 
 <p>I'm Seogun, <code>Front-end</code> developer from Korea. I use React often.</p>
-<p>🕐 <code>Jan 09, 2022</code> ~ <code>April 28, 2023</code> <b>향해99 부트캠프 12기 진행중</b> <a href="https://hanghae99.spartacodingclub.kr/?utm_source=google&utm_medium=bs&utm_campaign=%ED%95%AD%ED%95%B4&utm_content=%ED%95%AD%ED%95%B4_%EB%B8%8C%EB%9E%9C%EB%93%9C&utm_term=%ED%95%AD%ED%95%B499&gclid=Cj0KCQiA2-2eBhClARIsAGLQ2RkbCk1fDiRiZggpA67f2tpNi9k9xPbEjybYrKfttpH0JnpLDRQZeCUaApoSEALw_wcB" target=_blank rel=noopener noreferrer><img src="https://user-images.githubusercontent.com/76584961/216495125-eee030e7-812b-427f-a765-76b495b4346c.png"  style="height: 30px"/></a></p>
+<p>🕐 <code>Jan 09, 2022</code> ~ <code>April 28, 2023</code> <b>향해99 부트캠프 12기 진행중</b> &nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/76584961/216518470-88179044-bd5d-47b4-9a02-6224b29f5fa3.gif" style="height: 30px"/></p>
+
+<!--<a href="https://hanghae99.spartacodingclub.kr/?utm_source=google&utm_medium=bs&utm_campaign=%ED%95%AD%ED%95%B4&utm_content=%ED%95%AD%ED%95%B4_%EB%B8%8C%EB%9E%9C%EB%93%9C&utm_term=%ED%95%AD%ED%95%B499&gclid=Cj0KCQiA2-2eBhClARIsAGLQ2RkbCk1fDiRiZggpA67f2tpNi9k9xPbEjybYrKfttpH0JnpLDRQZeCUaApoSEALw_wcB" target=_blank rel=noopener noreferrer><img src="https://user-images.githubusercontent.com/76584961/216495125-eee030e7-812b-427f-a765-76b495b4346c.png"  style="height: 30px"/></a> -->
 <br />
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeogun95&count_bg=%23C8A03D&title_bg=%23555555&icon=git.svg&icon_color=%23FFFFFF&title=Seogun95&edge_flat=false"/></a>
 
