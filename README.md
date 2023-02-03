@@ -5,10 +5,11 @@
 <img align="right" src="https://user-images.githubusercontent.com/76584961/216432124-bd562e56-0bc3-495d-8585-b60ad15e5033.gif" style="max-width: 100%; width: 250px; display: inline-block;"/>
 
 <p>I'm Seogun, <code>Front-end</code> developer from Korea. I use React often.</p>
-
+<p>🕐 <code>Jan 09, 2022</code> ~ <code>April 28, 2023</code> <b>향해99 부트캠프 12기 진행중</b> <a href="https://hanghae99.spartacodingclub.kr/?utm_source=google&utm_medium=bs&utm_campaign=%ED%95%AD%ED%95%B4&utm_content=%ED%95%AD%ED%95%B4_%EB%B8%8C%EB%9E%9C%EB%93%9C&utm_term=%ED%95%AD%ED%95%B499&gclid=Cj0KCQiA2-2eBhClARIsAGLQ2RkbCk1fDiRiZggpA67f2tpNi9k9xPbEjybYrKfttpH0JnpLDRQZeCUaApoSEALw_wcB" target=_blank rel=noopener noreferrer><img src="https://user-images.githubusercontent.com/76584961/216495125-eee030e7-812b-427f-a765-76b495b4346c.png"  style="height: 30px"/></a></p>
+<br />
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeogun95&count_bg=%23C8A03D&title_bg=%23555555&icon=git.svg&icon_color=%23FFFFFF&title=Seogun95&edge_flat=false"/></a>
 
-<h2>My Tech STACK <img src="https://user-images.githubusercontent.com/76584961/216113723-6fd9cdc1-5b9b-44f2-9731-da2be8dc7348.gif" style="height: 30px"/></h2>
+<h2>MY TECH STACK <img src="https://user-images.githubusercontent.com/76584961/216113723-6fd9cdc1-5b9b-44f2-9731-da2be8dc7348.gif" style="height: 30px"/></h2>
 
 <p>
    <img style="width: 30px;" src="https://user-images.githubusercontent.com/76584961/216093017-3e1770bb-a305-492b-b0f7-c12e7935fae4.png" alt="css">
@@ -27,7 +28,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seogun95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h2>🛠️ Tools 🛠️</h2>
+<h2>🛠️ TOOLS 🛠️</h2>
 <p>   <img style="width: 40px;" alt="vscode" src="https://user-images.githubusercontent.com/76584961/216272325-ac8b1a90-41ae-42f9-84f9-b9ad9a485a6f.png">
 <img style="width: 40px;" alt="xcode" src="https://user-images.githubusercontent.com/76584961/216272330-0370238a-e7a8-48df-8d39-28c5cd5c9612.png">
 <img style="width: 40px;" alt="iterm2" src="https://user-images.githubusercontent.com/76584961/216276408-bfcaaff4-a516-4b63-9948-1508885f00a0.png">
@@ -38,7 +39,7 @@
 
 ---
 
-<h2>A little more about me using code</h2>
+<h2>A LITTLE MORE ABOUT ME USING CODE</h2>
 
 ```javascript
 const seogun = {
@@ -51,14 +52,17 @@ const seogun = {
 ```
 
 ------
+<h2>PROJECT</h2>
 
-<h2>Where to find me?</h2>
+
+------
+<h2>WHERE TO FIND ME?</h2>
 
 <p align="center">Follow me on Instagram! <img alt="instagram" src="https://user-images.githubusercontent.com/76584961/216097483-1682634a-25ea-45ba-a112-9993858197d5.png" style="width: 20px"> <a href="https://www.instagram.com/suun_dal_95/" target="_blank" rel="noopener noreferrer">@suun_dal_95</a>
   </p>
-<p align="center">이 <i>README</i> 파일의 마지막 업데이트 날짜: <br><code>2023년 02월 03일(금) 05시 22분</code></p>
-  <p align="center"><img src="https://user-images.githubusercontent.com/76584961/216103441-02b488d1-cf51-4c47-afae-ddc6fbec868e.gif" style="height: 40px"/><a href="https://github.com/Seogun95"rel="noopener noreferrer" style="cursor: pointer;"><img alt="Github" src="https://user-images.githubusercontent.com/76584961/216338764-0852c2aa-60ff-47e5-ab06-653a4101f8c6.png" style="height: 40px"></a> 
-<a href="https://seons-dev.tistory.com/" target="_blank" rel="noopener noreferrer" style="cursor: pointer;"><img alt="tistory" src="https://user-images.githubusercontent.com/76584961/216338770-66ee5516-a55d-4526-a5b0-386995b215ea.png" style="height: 40px"></a> 
+<p align="center">이 <i>README</i> 파일의 마지막 업데이트 날짜: <br><code>2023년 02월 03일(금) 11시 12분</code></p>
+  <p align="center"><img src="https://user-images.githubusercontent.com/76584961/216103441-02b488d1-cf51-4c47-afae-ddc6fbec868e.gif" style="height: 40px"/><a href="https://github.com/Seogun95" target=_blank rel=noopener noreferrer style="cursor: pointer;"><img alt="Github" src="https://user-images.githubusercontent.com/76584961/216338764-0852c2aa-60ff-47e5-ab06-653a4101f8c6.png" style="height: 40px"></a> 
+<a href="https://seons-dev.tistory.com/" target=_blank rel=noopener noreferrer style="cursor: pointer;"><img alt="tistory" src="https://user-images.githubusercontent.com/76584961/216338770-66ee5516-a55d-4526-a5b0-386995b215ea.png" style="height: 40px"></a> 
 </p>
 
 
