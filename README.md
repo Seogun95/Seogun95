@@ -11,7 +11,7 @@
 <br />
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeogun95&count_bg=%23C8A03D&title_bg=%23555555&icon=git.svg&icon_color=%23FFFFFF&title=Seogun95&edge_flat=false"/></a>
 
-<h2>MY TECH STACK <img src="https://user-images.githubusercontent.com/76584961/216113723-6fd9cdc1-5b9b-44f2-9731-da2be8dc7348.gif" style="height: 30px"/></h2>
+<h2>MY TECH STACK <img src="https://user-images.githubusercontent.com/76584961/217931497-5525468d-4682-4e93-aaae-fcad0a1b9840.gif" style="height: 30px"/></h2>
 
 <p>
    <img style="width: 30px;" src="https://user-images.githubusercontent.com/76584961/216093017-3e1770bb-a305-492b-b0f7-c12e7935fae4.png" alt="css">
@@ -62,7 +62,7 @@ const seogun = {
 
 <p align="center">Follow me on Instagram! <img alt="instagram" src="https://user-images.githubusercontent.com/76584961/216097483-1682634a-25ea-45ba-a112-9993858197d5.png" style="width: 20px"> <a href="https://www.instagram.com/suun_dal_95/" target="_blank" rel="noopener noreferrer">@suun_dal_95</a>
   </p>
-<p align="center">이 <i>README</i> 파일의 마지막 업데이트 날짜: <br><code>2023년 02월 03일(금) 11시 12분</code></p>
+<p align="center">이 <i>README</i> 파일의 마지막 업데이트 날짜: <br><code>2023년 02월 10일(금) 05시 38분</code></p>
   <p align="center"><img src="https://user-images.githubusercontent.com/76584961/216103441-02b488d1-cf51-4c47-afae-ddc6fbec868e.gif" style="height: 40px"/><a href="https://github.com/Seogun95" target=_blank rel=noopener noreferrer style="cursor: pointer;"><img alt="Github" src="https://user-images.githubusercontent.com/76584961/216338764-0852c2aa-60ff-47e5-ab06-653a4101f8c6.png" style="height: 40px"></a> 
 <a href="https://seons-dev.tistory.com/" target=_blank rel=noopener noreferrer style="cursor: pointer;"><img alt="tistory" src="https://user-images.githubusercontent.com/76584961/216338770-66ee5516-a55d-4526-a5b0-386995b215ea.png" style="height: 40px"></a> 
 </p>
