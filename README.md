@@ -19,12 +19,8 @@
    <img style="width: 30px;" src="https://user-images.githubusercontent.com/76584961/216442416-85fcfa93-7512-4b9e-9ff4-1f3b4a9a6567.gif" alt="js">
    <img style="width: 30px;" src="https://user-images.githubusercontent.com/76584961/216117810-7c78b892-cb2b-4050-8911-f51ae15cb85e.png" alt="swift">
    <img style="width: 30px;" src="https://user-images.githubusercontent.com/76584961/216117822-e83f9b0c-3e41-44ac-9da9-05ecf3494c99.png" alt="swiftui">
-  
-<!-- <img style="width: 50px;" src="https://user-images.githubusercontent.com/76584961/216094038-441f7d64-1d02-4301-917c-6999c9f9723e.png" alt="bootstrap"> -->   
- <!--  <img style="width: 50px" src="https://user-images.githubusercontent.com/76584961/216093349-da61389b-0b5c-42f4-b110-73300a4b868d.png" alt="react"> -->
-  
- <!--  <img style="width: 50px" src="https://user-images.githubusercontent.com/76584961/216093353-d6b5485d-8e51-4f85-a090-552d8cb122ca.png" alt="typescript"> -->
-
+   <img style="width: 30px" src="https://user-images.githubusercontent.com/76584961/216093353-d6b5485d-8e51-4f85-a090-552d8cb122ca.png" alt="typescript">    <img style="width: 30px" src="https://user-images.githubusercontent.com/76584961/216093349-da61389b-0b5c-42f4-b110-73300a4b868d.png" alt="react"> 
+<!--<img style="width: 50px;" src="https://user-images.githubusercontent.com/76584961/216094038-441f7d64-1d02-4301-917c-6999c9f9723e.png" alt="bootstrap"> -->
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seogun95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
